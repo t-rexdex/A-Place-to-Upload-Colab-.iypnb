@@ -1,0 +1,2 @@
+# In this folder I will be posting random codes during my education.
+Currently practicing how to use git and features along with that. Will be learning ML along the way and possibly put matlab codes in here from my MECE 5397 homework.
